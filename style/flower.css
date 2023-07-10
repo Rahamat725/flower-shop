@@ -49,3 +49,22 @@ line-height: 30px;
 margin-top: 0;
 margin-bottom: 20px;
 }
+
+/* feature section related style */
+.feature-content{
+    display: flex;
+}
+
+.feature-section{
+    /* width: 100%; */
+    /* text-align: center; */
+    margin: 0 250px;
+}
+
+.feature-title{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
